@@ -1,4 +1,4 @@
-### LinkedList란
+# LinkedList
 
 - 배열은 다음과 같은 장점을 가지고 있다.
     - 접근하기 쉽다.
